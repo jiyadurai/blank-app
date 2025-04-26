@@ -94,7 +94,6 @@ if uploaded_file is not None:
     st.image(image, caption="Uploaded Image.")
     
 florida_image = Image.open("florida.png")
-# st.image(florida_image, caption="Choose where you got this picture")
 coordinates = streamlit_image_coordinates(florida_image, key="my_image", width=740, height=630)
 
 if coordinates:
