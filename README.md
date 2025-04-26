@@ -1,6 +1,6 @@
 Jeevan Iyadurai's Floridian Mammalian Classifier
 
-Made with Stremalit's Blank Template. 
+Made with Streamlit's Blank Template. 
 
 ### How to run it on your own machine
 
